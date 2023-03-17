@@ -103,7 +103,7 @@ Evertime you want to run the code use the following command:
 
 ```python solitaire.py```
 
-*Note: If you're code get's stuck due to Codecarbon, press Ctrl+C to stop the process and run it again *
+*Note: If you're code get's stuck due to Codecarbon, press Ctrl+C to stop the process and run it again*
 
 ## Visualize your emissions
 
@@ -122,7 +122,7 @@ Copy and paste the link into your preferred  browser.
 At the bottom of the page you will se a bar chart that show the emissions similar to the one shown below:
 ![224378880-fb3f0081-2b58-497a-b771-390f5c38a33d](https://user-images.githubusercontent.com/89920701/225897882-79d5daf7-b142-4795-9f14-12a1cde71b7a.png)
 
-*Note: You will have a new bar in your chart for each time that you run the code *
+*Note: You will have a new bar in your chart for each time that you run the code*
 
 ## Code comparison
 
@@ -136,7 +136,7 @@ To be able to efficiently compare the code emissions efficiently be sure to:
 - Copy and paste the link into your browser.
 - Navigate at the bottom of the page to see the bar chart with two code compared.
 
-*Alternative: If you don't want to see a graphical interface for your emissions, open the emissions.csv file and change the "emissions" column to decimal format with 12 decimal places. *
+*Alternative: If you don't want to see a graphical interface for your emissions, open the emissions.csv file and change the "emissions" column to decimal format with 12 decimal places.*
 
 ## Accessing your code
 
