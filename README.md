@@ -49,7 +49,7 @@ At this point you will create the environment where you are going to work.
 
 Open your freshly installed **Anaconda Prompt**.
 
-To do so, search for **Anaconda Prompt** in the bar search.
+To do so, search for **Anaconda Prompt** in the search bar.
 
 Your Anaconda Prompt window will look similar to this:
 
