@@ -109,7 +109,7 @@ Everytime you want to run the code use the following command:
 
 ## Visualize your emissions
 
-CodeCarbon produce a ** csv ** emissions file with all detailed information regarding the emissions of the code.
+CodeCarbon produce a **csv** emissions file with all detailed information regarding the emissions of the code.
 
 To have a visualization of those information run the following command:
 
