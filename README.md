@@ -91,7 +91,7 @@ If you receive and error  message run:
 Before opening or interact with the repository you will need to install a couple of requirements.
 
 Follow the commands below and run them in sequence to successfully install the requirements:
-1. ```cd Green-Coding-Competition-FY23.git```
+1. ```cd Green-Coding-Competition-FY23```
 
 2. ```pip install -r requirements.txt```
 
