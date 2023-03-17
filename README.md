@@ -13,7 +13,7 @@ The game runs via **solitaire.py** and uses the **card_elements.py** to produce 
 
 Once started the application will automatically play a match and conclude it in few seconds.
 
-The file **solitaireDONOTCHANGE.py** it's an exact copy of the solitaire.py.
+The file **solitaireDONOTCHANGE.py** is an exact copy of the solitaire.py.
 
 It will allow you to measure the original code emissions and the solitaire.py code emissions after you changes.
 
