@@ -1,7 +1,7 @@
 # Green-Coding-Competition-FY23
 
 Welcome to the Green Coding Hackathon FY23.
-The aim of this competition it's to utilize tools to analyze CO2 emissions and use methods and good practices to reduce our environmental impact into the technology world.
+The aim of this competition it's to utilize tools to analyse CO2 emissions and use methods and good practices to reduce our environmental impact into the technology world.
 
 Our whole team wish you good luck!
 
@@ -11,7 +11,7 @@ The application that are you going to run it's a solitaire game written in pytho
 
 The game runs via **solitaire.py** and uses the **card_elements.py** to produce actions on cards, piles, and deck.
 
-Once started the application will play automatically a match and conclude it in few seconds.
+Once started the application will automatically play a match and conclude it in few seconds.
 
 The file **solitaireDONOTCHANGE.py** it's an exact copy of the solitaire.py.
 
@@ -19,7 +19,7 @@ It will allow you to measure the original code emissions and the solitaire.py co
 
 ## Your role
 
-Your role in this competition is to analyze **solitaire.py** and find flaws in the code causing it to produce a high level of CO2 emissions.
+Your role in this competition is to analyse **solitaire.py** and find flaws in the code causing it to produce a high level of CO2 emissions.
 
 ## Installation Guide
 
@@ -37,11 +37,11 @@ To install it follow the link https://code.visualstudio.com/download and click *
 
 ### Anaconda
 
-To run the code you will need to install **Anaconda**.
+To run the code, you will need to install **Anaconda**.
 
 to install Anaconda follow the link https://www.anaconda.com/products/distribution and click **Download**.
 
-Once the donwload it's completed install it using the default settings.
+Once the download  it's completed install it using the default settings.
 
 ### Environment Creation
 
@@ -57,7 +57,7 @@ Once you are in your Anaconda Prompt run the following command:
 
 ``` conda create --name codecarbon python=3.10 ```
 
-You will prompted with the following question:
+During the creation of the environment you will be prompted with the following question:
 
 ![Capture2](https://user-images.githubusercontent.com/89920701/225888641-e691bf31-a7db-40eb-b628-c812bbbe2fd8.PNG)
 
@@ -88,7 +88,7 @@ If you receive and error  message run:
 
 Before opening or interact with the repository you will need to install a couple of requirements.
 
-Follow the commands below and run them in sequence to successfully install the requiremnts:
+Follow the commands below and run them in sequence to successfully install the requirements:
 1. ```cd Green-Coding-Competition-FY23.git```
 
 2. ```pip install -r requirements.txt```
@@ -99,7 +99,7 @@ After a couple of minutes all the requirements will be installed.
 
 We're ready to run the code!
 
-Evertime you want to run the code use the following command:
+Everytime you want to run the code use the following command:
 
 ```python solitaire.py```
 
@@ -148,7 +148,7 @@ Alternatively, you can first open * Visual Studio Code *, click * Open *, and se
 
 Here you will find a list of good practice and guide to apply to your code.
 
-The code contain one or more bad coding technique for each of the category listed in the guide below.
+The code contains one or more bad coding technique for each of the category listed in the guide below.
 
 ## 1. Eliminate unnecessary operations
 
