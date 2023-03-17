@@ -1,2 +1,2 @@
 codecarbon
-"dash-bootstrap-components<1"
+dash-bootstrap-components<1
