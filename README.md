@@ -309,4 +309,4 @@ The following are some comparison websites.
 Python: https://pypi.org/
 JavaScript: https://packaging.python.org/en/latest/tutorials/packaging-projects/
 
-* Suggestion: Try to find information regarding ** itertools ** and how to use it in your code *
+*Suggestion: Try to find information regarding ** itertools ** and how to use it in your code*
