@@ -128,13 +128,13 @@ At the bottom of the page you will se a bar chart that show the emissions simila
 
 ## Code comparison
 
-To be able to efficiently compare the code emissions efficiently be sure to:
+To be able to efficiently compare the code emissions be sure to:
 - Close the browser
 - Be sure to press Ctrl+C into the Anaconda Prompt Windows to stop the visualization of the emissions.
-- Delete the ** emissions.csv ** file to be able to create a new one.
-- Run the solitaireDONOTCHANGE.py one time
+- Delete the **emissions.csv** file to be able to create a new one.
+- Run the solitaireDONOTCHANGE.py one time.
 - Run the solitaire.py with your code improvement one time.
-- Run the * carbonboard --filepath="emissions.csv" --port=8050 *
+- Run the *carbonboard --filepath="emissions.csv" --port=8050*
 - Copy and paste the link into your browser.
 - Navigate at the bottom of the page to see the bar chart with two code compared.
 
@@ -142,9 +142,9 @@ To be able to efficiently compare the code emissions efficiently be sure to:
 
 ## Accessing your code
 
-You can access your code by double clicking into the ** solitaire.py ** and use * Visual Studio Code * as chosen program.
+You can access your code by double clicking into the **solitaire.py** and use *Visual Studio Code* as chosen program.
 
-Alternatively, you can first open * Visual Studio Code *, click * Open *, and select the ** solitaire.py ** code.
+Alternatively, you can first open *Visual Studio Code*, click *Open*, and select the **solitaire.py** code.
 
 # Green Coding Guide
 
