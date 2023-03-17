@@ -33,7 +33,7 @@ To modify your code you will need a python editor.
 
 For this competition we recommend Visual Studio Code.
 
-To install it follow the link https://code.visualstudio.com/download and click ** Download **.
+To install it follow the link https://code.visualstudio.com/download and click **Download**.
 
 ### Anaconda
 
@@ -41,7 +41,7 @@ To run the code, you will need to install **Anaconda**.
 
 to install Anaconda follow the link https://www.anaconda.com/products/distribution and click **Download**.
 
-Once the download  it's completed install it using the default settings.
+Once the download is completed install it using the default settings.
 
 ### Environment Creation
 
