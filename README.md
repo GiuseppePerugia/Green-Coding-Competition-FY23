@@ -105,7 +105,7 @@ Everytime you want to run the code use the following command:
 
 ```python solitaire.py```
 
-*Note: If you're code get's stuck due to Codecarbon, press Ctrl+C to stop the process and run it again*
+*Note: If you're code gets stuck due to Codecarbon, press Ctrl+C to stop the process and run it again*
 
 ## Visualize your emissions
 
