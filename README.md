@@ -13,6 +13,10 @@ The game runs via **solitaire.py** and uses the **card_elements.py** to produce 
 
 Once started the application will play automatically a match and conclude it in few seconds.
 
+The file **solitaireDONOTCHANGE.py** it's an exact copy of the solitaire.py.
+
+It will allow you to measure the original code emissions and the solitaire.py code emissions after you changes.
+
 ## Your role
 
 Your role in this competition is to analyze **solitaire.py** and find flaws in the code causing it to produce a high level of CO2 emissions.
