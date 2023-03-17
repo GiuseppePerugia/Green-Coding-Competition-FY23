@@ -39,9 +39,9 @@ To install it follow the link https://code.visualstudio.com/download and click *
 
 To run the code, you will need to install **Anaconda**.
 
-to install Anaconda follow the link https://www.anaconda.com/products/distribution and click **Download**.
+To install Anaconda follow the link https://www.anaconda.com/products/distribution and click **Download**.
 
-Once the download is completed install it using the default settings.
+Once the download is completed, install it using the default settings.
 
 ### Environment Creation
 
@@ -69,7 +69,7 @@ The operation will take a couple of minutes to complete.
 
 ### Accessing your Environment
 
-Now that the environment it's create we can access it running the following command:
+Now that the environment is created, we can access it running the following command:
 
 ```conda activate codecarbone```
 
@@ -82,7 +82,7 @@ In your command line run the following command:
 
 ```git clone https://github.com/GiuseppePerugia/Green-Coding-Competition-FY23.git```
 
-If you receive and error  message run:
+If you receive and error message run:
 
 ```pip install git```
 
@@ -109,19 +109,19 @@ Everytime you want to run the code use the following command:
 
 ## Visualize your emissions
 
-CodeCarbon produce a **csv** emissions file with all detailed information regarding the emissions of the code.
+CodeCarbon produce a **csv** emissions file with all detailed information regarding the emissions produced by the code.
 
 To have a visualization of those information run the following command:
 
 ```carbonboard --filepath="emissions.csv" --port=8050```
 
-If the default port 8050 it's occupied, use another port (such as 3333).
+If the default port 8050 is occupied, use another port (such as 3333).
 
 The command will produce an host link to show the visualization of the emissions as shown below:
 ![Capture4](https://user-images.githubusercontent.com/89920701/225894254-ee2c13a0-271c-47d5-b1bb-a124378d8f5c.PNG)
 
 Copy and paste the link into your preferred  browser.
-At the bottom of the page you will se a bar chart that show the emissions similar to the one shown below:
+At the bottom of the page you will se a bar chart that shows the emissions similar to the one shown below:
 ![224378880-fb3f0081-2b58-497a-b771-390f5c38a33d](https://user-images.githubusercontent.com/89920701/225897882-79d5daf7-b142-4795-9f14-12a1cde71b7a.png)
 
 *Note: You will have a new bar in your chart for each time that you run the code*
