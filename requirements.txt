@@ -1,2 +1,2 @@
-pip install codecarbon
-pip install "dash-bootstrap-components<1"
+codecarbon
+"dash-bootstrap-components<1"
