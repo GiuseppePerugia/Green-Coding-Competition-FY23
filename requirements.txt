@@ -1,3 +1,4 @@
 codecarbon
 dash-bootstrap-components<1
 fire
+dash
