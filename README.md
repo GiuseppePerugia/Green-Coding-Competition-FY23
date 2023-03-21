@@ -59,6 +59,10 @@ Once you are in your Anaconda Prompt run the following command:
 
 ``` conda create --name codecarbon python=3.10 ```
 
+If a certificate error appears, please run the following command and than re-run the conda create command:
+
+```conda config --set ssl_verify no```
+
 During the creation of the environment you will be prompted with the following question:
 
 ![Capture2](https://user-images.githubusercontent.com/89920701/225888641-e691bf31-a7db-40eb-b628-c812bbbe2fd8.PNG)
